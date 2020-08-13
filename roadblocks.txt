@@ -1,3 +1,4 @@
 List of roadblock questions : 
 
 1)pythagorean triplets
+url : https://practice.geeksforgeeks.org/problems/pythagorean-triplet/0
