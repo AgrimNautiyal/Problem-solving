@@ -2,3 +2,9 @@ List of roadblock questions :
 
 1)pythagorean triplets
 url : https://practice.geeksforgeeks.org/problems/pythagorean-triplet/0
+learning outcomes and bonus goals :
+.implement custom search function instead of "in" [binary search]
+.implement custom sort function instead of sorted [quick/merge]
+.implement hashmaps to reduce redundancies for A[i] > 1000
+
+above modifications should hit the ideal benchmark runtime
