@@ -1,3 +1,4 @@
+#question url : https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1
 def removeLoop(head):
     # code here
     # remove the loop without losing any nodes
