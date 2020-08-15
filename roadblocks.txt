@@ -8,3 +8,15 @@ learning outcomes and bonus goals :
 .implement hashmaps to reduce redundancies for A[i] > 1000
 
 above modifications should hit the ideal benchmark runtime
+
+
+2)intersection of y linked lists 
+learning outcomes :
+
+.use set() to search instead of list for "in" operator, o(1) complxty
+
+
+3)binary tree to dll : 
+learning outcomes:
+
+.it's all pointers, work your code in modules, and test repeatedly after each module so that you can move on to the next module with confidence and zone down any error to a specific module during debugging
