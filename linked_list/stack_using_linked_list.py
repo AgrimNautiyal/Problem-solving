@@ -1,3 +1,4 @@
+#question url : https://practice.geeksforgeeks.org/problems/implement-stack-using-linked-list/1
 # Class to represent a node
 class StackNode:
 
