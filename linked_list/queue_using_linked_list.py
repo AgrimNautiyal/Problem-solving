@@ -1,3 +1,4 @@
+#question url : https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1
 # A linked list (LL) node 
 # to store a queue entry 
 class Node: 
