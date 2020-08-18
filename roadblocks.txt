@@ -20,3 +20,9 @@ learning outcomes :
 learning outcomes:
 
 .it's all pointers, work your code in modules, and test repeatedly after each module so that you can move on to the next module with confidence and zone down any error to a specific module during debugging
+
+4)no of pairs pow(x,y) > pow(y, x):
+remaining : try an optimal solution for the problem
+(mlogm + nlogn)
+
+ 
