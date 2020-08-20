@@ -25,4 +25,5 @@ learning outcomes:
 remaining : try an optimal solution for the problem
 (mlogm + nlogn)
 
- 
+5)convert bin tree to DLL/CDLL:
+remaining : try to find a way to create your DLL/CDLL in the recursive call only
