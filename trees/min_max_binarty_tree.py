@@ -1,5 +1,5 @@
 #question url : https://practice.geeksforgeeks.org/problems/max-and-min-element-in-binary-tree/1
-'''
+''' 
 # Node Class:
 class Node:
     def __init__(self,val):
