@@ -1,0 +1,24 @@
+Puzzles (gfg/puzzles)
+normalisation
+relations
+transactions 
+
+
+throw and throws with super and subclass constraints
+static block normal block and nested classes
+java visbility (public private etc)
+this constructor
+method overloading with type promotion
+abstract classes and interfaces
+overloading vs overriding (static child with static parent methods, and method hiding vs normal cases)
+super key word (inheritance) - in constructors and variables
+Collection classes in Java and their properties
+why multiple inheritance is not supported in Java (due to ambiguity during runtime polymorphism)
+aggregation, composition, association
+final methods
+default methods
+Java 8 and Java 9 features - (default and static methods in interface, private methods in interface)
+can we implement default and static methods in child class - (No, both have to be static methods, and then Parent class works)
+can we implement private methods in child class - No (compile time error)
+checked(compile time), unchecked exceptions(run-time) and error examples
+ 
