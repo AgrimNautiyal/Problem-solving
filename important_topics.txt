@@ -22,3 +22,6 @@ can we implement default and static methods in child class - (No, both have to b
 can we implement private methods in child class - No (compile time error)
 checked(compile time), unchecked exceptions(run-time) and error examples
  
+
+
+Database design (sql, normalisation, b4,b+ trees, file permissions, concurrency control and locking)
