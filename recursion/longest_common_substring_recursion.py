@@ -7,7 +7,7 @@ def helper(A,B, i, j, count):
         count = helper(A,B, i+1, j+1, count+1)
         l.append(A[i])
     
-    count = max(count, helper(A, B, i+1, j, 0), helper(A, B, i, j+1, 0))
+    count = max(count, helper(A, B, i+1, j, count), helper(A, B, i, j+1, count))
     
     return count
     
